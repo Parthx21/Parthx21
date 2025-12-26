@@ -27,14 +27,20 @@
 </p>
 
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthx21&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthx21&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthx21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthx21&layout=compact&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthx21&theme=dark&hide_border=false" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthx21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 
 
 
