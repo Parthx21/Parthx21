@@ -27,13 +27,16 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parthx21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parthx21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthx21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthx21&theme=dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthx21&theme=dark" height="165"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthx21&layout=compact&theme=dark"/>
+</p>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Parthx21&icon=0&color=0)](https://visitcount.itsvg.in)
